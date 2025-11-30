@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="it">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Prenota - Noleggia Amico</title>
+    <link rel="stylesheet" href="styles.css" >
+    <link rel="stylesheet" href="cssGenerico.css" >
+    <link rel="stylesheet" href="cssPrenota.css">
+    <link rel="stylesheet" href="cssBoxContainer.css" >
+  </head>
+
+  <body class="sfondo">
+    <nav class="barranavigazione">
+      <div class="nav-container">
+        <div class="logo">
+          <a href="index.html">
+            <img src="immgaini/LOGO.png" >
+          </a>
+        </div>
+        <ul class="nav-menu">
+          <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
+          <li class="nav-item"><a href="chisiamo.html" class="nav-link">Chi Siamo</a></li>
+          <li class="nav-item"><a href="auto.html" class="nav-link">Le Nostre Auto</a></li>
+          <li class="nav-item"><a href="prenota.html" class="nav-link">Prenota</a></li>
+          <li class="nav-item"><a href="contatti.html" class="nav-link">Contatti</a></li>
+        </ul>
+        <div class="menu">
+          <span class="barra</span>
+          <span class="barra"></span>
+          <span class="barra"></span>
+        </div>
+      </div>
+    </nav>
+    <br><br><br>
+
+    <div class="containerPrenota">
+    <h1>Preventivo Noleggio Auto </h1>
+    <form id="moduloNoleggio">
+        <h2>Dati Personali</h2>
+        <label for="nome">Nome:</label>
+        <input type="text" id="nome" required>
+
+        <label for="cognome">Cognome:</label>
+        <input type="text" id="cognome" required>
+
+        <label for="telefono">Numero di Telefono:</label>
+        <input type="text" id="telefono" required>
+
+        <label for="via">Via di Casa:</label>
+        <input type="text" id="via" required>
+        
+        
+
+        <h2>Dettagli Noleggio</h2>
+        
+       
+        <label for="marcaAuto">Scegli la marca:</label>
+        <select id="marcaAuto" onchange="popolaModelli()" required>
+            <option value="">-- Seleziona una marca --</option>
+            <option value="Alfa Romeo">Alfa Romeo</option>
+            <option value="Audi">Audi</option>
+            <option value="BMW">BMW</option>
+            <option value="Mercedes">Mercedes</option>
+            <option value="Volvo">Volvo</option>
+        </select>
+        
+       
+        <label for="modelloAuto">Scegli una macchina:</label>
+        <select id="modelloAuto" required disabled>
+            <option value="">-- Seleziona un modello --</option>
+        </select>
+
+        <label for="giorni">Numero di giorni:</label>
+        <input type="number" id="giorni" min="1" required>
+        <br>
+        <button type="button" onclick="calcolaNoleggio()">Calcola Totale</button>
+    </form>
+
+    <div id="risultato">
+        Il costo totale apparirà qui.
+    </div>
+    
+    <script src="jscript.js"></script>
+  </div>
+
+  </body>
+</html>

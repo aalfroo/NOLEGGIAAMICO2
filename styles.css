@@ -1,0 +1,26 @@
+/* CSS PER ELEMENTI SPECIFICI */
+
+.bottonePrenotaMain {
+  width: 280px;
+  height: 160px;
+  border: none;
+  font-family: "Verdana", sans-serif;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: 26px;
+  text-transform: uppercase;
+  letter-spacing: 0.8px;
+  position: absolute;
+  top: 25%;
+  left: 70%;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bottonePrenotaMain:hover {
+  color: #c9a961;
+  transform: scale(1.5);
+  box-shadow: 0 15px 30px rgba(0, 0, 0, 1);
+}

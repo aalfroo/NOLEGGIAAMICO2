@@ -1,0 +1,247 @@
+ALFA ROMEO:
+
+junior:        MODELLO: junior TI Q4
+               ALIMENTAZIONE: ibrida
+               CV: 145
+               PREZZO AL GIORNO: 110€
+               
+
+
+stelvio:        MODELLO: stelvio veloce Q4
+                ALIMENTAZIONE: benzina
+                CV: 280
+                PREZZO AL GIORNO: 150€
+                
+
+
+tonale:        MODELLO: tonale veloce Q4
+               ALIMENTAZIONE: ibrida
+               CV: 175
+               PREZZO AL GIORNO: 115€
+
+
+giulia:        MODELLO: giulia veloce Q4
+               ALIMENTAZIONE: benzina
+               CV: 280
+               PREZZO AL GIORNO: 150€
+
+
+giulietta:        MODELLO: giulietta veloce Q4
+                  ALIMENTAZIONE: benzina
+                  CV: 170
+                  PREZZO AL GIORNO: 60€
+
+
+
+
+audi:
+
+
+
+A3:        MODELLO: a3 sportback
+           ALIMENTAZIONE: ibrida
+           ANNO DI IMMATRICOLAZIONE: 2025
+           KM: 0
+           CV: 116
+           PREZZO AL GIORNO: 95€
+           REZZO D' ACQUISTO: 30.650€
+
+
+a6:        MODELLO: a6 S line edition
+           ALIMENTAZIONE: ibrida
+           ANNO DI IMMATRICOLAZIONE: 2025
+           KM: 0
+           CV: 252
+           PREZZO AL GIORNO: 195€
+           PREZZO D' ACQUISTO: 83.100€
+
+
+q3:        MODELLO: q3 S line edition
+           ALIMENTAZIONE: benzina
+           ANNO DI IMMATRICOLAZIONE: 
+           KM: 0
+           CV: 150
+           PREZZO AL GIORNO: 135€
+           PREZZO D' ACQUISTO: 49.900€
+
+
+q5:        MODELLO: q5 S line edition 
+           ALIMENTAZIONE: benzina
+           ANNO DI IMMATRICOLAZIONE: 
+           KM: 0
+           CV: 204
+           PREZZO AL GIORNO: 160€
+           PREZZO D' ACQUISTO: 74.500€
+
+
+q8:        MODELLO: q8 SUV
+           ALIMENTAZIONE: diesel
+           ANNO DI IMMATRICOLAZIONE: 2025
+           KM: 0
+           CV: 231
+           PREZZO AL GIORNO: 280€
+           PREZZO D' ACQUISTO: 94.320€
+
+
+
+
+BMW:
+
+
+serie 1:        MODELLO: serie 1 M sport
+                ALIMENTAZIONE: benzina
+                ANNO DI IMMATRICOLAZIONE: 2025
+                KM: 0
+                CV: 122
+                PREZZO AL GIORNO: 110€
+                PREZZO D' ACQUISTO: 38.900€
+
+
+
+serie 2:        MODELLO: serie 2 M sport
+                ALIMENTAZIONE: benzina
+                ANNO DI IMMATRICOLAZIONE: 2025
+                KM: 0
+                CV: 122
+                PREZZO AL GIORNO: 120€
+                PREZZO D' ACQUISTO: 42.950€
+
+
+
+serie 3:        MODELLO: serie 3 M sport
+                ALIMENTAZIONE: benzina
+                ANNO DI IMMATRICOLAZIONE: 2025
+                KM: 0
+                CV: 156
+                PREZZO AL GIORNO: 145€
+                PREZZO D' ACQUISTO: 55.050€
+
+
+
+serie 4:        MODELLO: serie 4 M
+                ALIMENTAZIONE: benzina
+                ANNO DI IMMATRICOLAZIONE: 2025
+                KM: 0
+                CV: 392
+                PREZZO AL GIORNO: 190€
+                PREZZO D' ACQUISTO: 86.330€
+
+
+
+x1:        MODELLO: x1 M sport
+           ALIMENTAZIONE: benzina
+           ANNO DI IMMATRICOLAZIONE: 2025
+           KM: 0
+           CV: 218
+           PREZZO AL GIORNO: 140€€
+           PREZZO D' ACQUISTO: 55.150€
+
+
+
+mercedes:
+
+
+
+
+glc:        MODELLO: GLC amg line
+            ALIMENTAZIONE: ibrida
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 258 + 23 (motore elettrico)
+            PREZZO AL GIORNO: 190€
+            PREZZO D' ACQUISTO: 81.415€
+
+
+gla:        MODELLO: GLC progressive
+            ALIMENTAZIONE: benzina
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 131 + 14 (motore elettrico)
+            PREZZO AL GIORNO: 145€
+            PREZZO D' ACQUISTO: 46.546€
+
+
+
+glb:        MODELLO: GLB progressive
+            ALIMENTAZIONE: ibrida
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 136 + 14 (motore elettrico)
+            PREZZO AL GIORNO: 160€
+            PREZZO D' ACQUISTO: 48.081€
+
+
+cla:        MODELLO: CLA amg line
+            ALIMENTAZIONE: benzina
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 136 + 30 (motore elettrico)
+            PREZZO AL GIORNO: 165€
+            PREZZO D' ACQUISTO: 53.084€
+
+
+
+a45 AMG:        MODELLO: AMG A 45S 4MATIC+
+                ALIMENTAZIONE: benzina
+                ANNO DI IMMATRICOLAZIONE: 2025
+                KM: 0
+                CV: 421
+                PREZZO AL GIORNO: 350€
+                PREZZO D' ACQUISTO: 69.719€
+
+
+
+volvo:
+
+
+xc40:        MODELLO: xc40 core 
+             ALIMENTAZIONE: benzina
+             ANNO DI IMMATRICOLAZIONE: 2025
+             KM: 0
+             CV: 163
+             PREZZO AL GIORNO: 150€
+             PREZZO D' ACQUISTO: 43.700€
+
+
+
+xc60:        MODELLO: xc60 core AWD
+             ALIMENTAZIONE: ibrida
+             ANNO DI IMMATRICOLAZIONE: 2025
+             KM: 0
+             CV: 350
+             PREZZO AL GIORNO: 165€
+             PREZZO D' ACQUISTO: 64.900€
+
+
+
+xc90:        MODELLO: xc90 core AWD
+            ALIMENTAZIONE: ibrida
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 455
+            PREZZO AL GIORNO: 200€
+            PREZZO D' ACQUISTO: 93.400€
+
+
+
+
+
+v40:        MODELLO: v40 core 
+            ALIMENTAZIONE: benzina
+            ANNO DI IMMATRICOLAZIONE: 2019
+            KM: 70.000
+            CV: 120
+            PREZZO AL GIORNO: 105€
+            PREZZO D' ACQUISTO: 13.000€
+
+
+
+
+v60:        MODELLO: v60 core 
+            ALIMENTAZIONE: benzina
+            ANNO DI IMMATRICOLAZIONE: 2025
+            KM: 0
+            CV: 197
+            PREZZO AL GIORNO: 165€
+            PREZZO D' ACQUISTO: 50.550€
+
